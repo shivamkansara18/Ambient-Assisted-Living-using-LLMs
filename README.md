@@ -388,9 +388,6 @@ python llm_report_generator.py
 ## Authors
 
 - Shivam Kansara
-- Khushi Surti
-- Pal Shah
-- Jaydeep Rathwa
 
 Department of Computer Science & Engineering
 
