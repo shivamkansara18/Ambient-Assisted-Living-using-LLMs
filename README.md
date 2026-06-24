@@ -402,7 +402,7 @@ If you use this work in your research, please cite:
 ```bibtex
 @project{aal_har_2026,
   title={Early Anomaly Detection and Predictive Insights for Ambient Assisted Living using LLMs},
-  author={Kansara, Shivam and Surti, Khushi and Shah, Pal and Rathwa, Jaydeep},
+  author={Kansara, Shivam},
   year={2026}
 }
 ```
